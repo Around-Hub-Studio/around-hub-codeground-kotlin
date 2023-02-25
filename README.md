@@ -13,15 +13,11 @@
 
 도움이 되셨으면 좋겠습니다 :)
 
----
-
 ## Contents
 
 CodeGround 는 기초가 되는 샘플 코드를 제공하는 목적으로 작성되었습니다.
 
 유튜브에서는 여러 영상이 제공되기 때문에 그 때마다 버전을 업데이트하고 영상 본문에 기입할 예정입니다.
-
----
 
 ## Project Settings
 
@@ -31,15 +27,11 @@ Kotlin 1.7 (Stable) 이 자동 적용되어 있습니다.
 
 IntelliJ 를 사용하여 작성합니다.
 
----
-
 ## How to use
 
 별도 사용 방법이 없습니다.
 
 영상을 보고 참고 부탁드립니다.
-
----
 
 ## Around Hub Studio & ThinkGround
 
