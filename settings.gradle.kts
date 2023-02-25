@@ -1,3 +1,3 @@
 
-rootProject.name = "around-hub-kotlin"
+rootProject.name = "around-hub-codeground-kotlin"
 
