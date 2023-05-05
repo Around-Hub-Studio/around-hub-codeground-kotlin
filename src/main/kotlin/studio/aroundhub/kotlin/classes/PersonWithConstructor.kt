@@ -22,5 +22,4 @@ class PersonWithConstructor constructor(private val name: String, private val ag
   fun introduce() {
     println("I'm $name and my age is $age.")
   }
-
 }

@@ -13,12 +13,19 @@ class IfSample {
 
       if (a > b) println("${a}는 ${b}보다 큽니다.")
 
-      if (a < b) println("${b}는 ${a}보다 큽니다.")
-      else println("${b}는 ${a}보다 크지 않습니다.")
+      if (a < b) {
+        println("${b}는 ${a}보다 큽니다.")
+      } else {
+        println("${b}는 ${a}보다 크지 않습니다.")
+      }
 
-      if (a < b) println("${b}는 ${a}보다 큽니다.")
-      else if (a == b) println("${b}는 ${a}와 같습니다.")
-      else println("${b}는 ${a}보다 크지 않습니다.")
+      if (a < b) {
+        println("${b}는 ${a}보다 큽니다.")
+      } else if (a == b) {
+        println("${b}는 ${a}와 같습니다.")
+      } else {
+        println("${b}는 ${a}보다 크지 않습니다.")
+      }
 
       if (a in 1..5) println("${a}는 1~5 사이입니다.")
 
