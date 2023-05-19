@@ -31,8 +31,8 @@ fun main() {
   val data5 = data3.copy()
   val data6 = data3.copy(name = "around hub studio")
 
-  println(data3==data5)
-  println(data5==data6)
+  println(data3 == data5)
+  println(data5 == data6)
   println(data5)
   println(data6)
 }

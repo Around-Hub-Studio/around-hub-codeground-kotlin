@@ -75,5 +75,4 @@ fun main() {
 
   println(HttpStatus2.BAD_REQUEST.isServerError())
   println(HttpStatus2.INTERNAL_ERROR.isServerError())
-
 }
